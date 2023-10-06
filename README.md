@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rupom Ahsan ===================================================================================================================================  Senior Software Engineer & AGILE Master ---------------------------------------  Senior software engineer with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, JS, MS SQL Server, AWS, Github, python, php, tableau etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.  * 🌍  I'm based in Chemnitz, Germany * 🧠  I'm learning Microservices with Clean architecture * 🤝  I'm open to collaborating on Projects * ⚡  Football fanatic, always love to enjoy the game!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rupom Ahsan ===================================================================================================================================  
+Senior Software Engineer & AGILE Master 
+---------------------------------------  
+Senior software engineer with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, JS, MS SQL Server, AWS, Github, python, php, tableau etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.  
+
+* 🌍  I'm based in Chemnitz, Germany
+* 🧠  I'm learning Microservices with Clean architecture
+* 🤝  I'm open to collaborating on Projects
+* ⚡  Football fanatic, always love to enjoy the game!
 
 ### Skills  
 
@@ -13,4 +21,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
